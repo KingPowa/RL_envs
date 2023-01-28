@@ -1,6 +1,6 @@
 # RL_envs
 
-**_Disclaimer:** this project is under development.
+**_Disclaimer:** this project is under development._
 
 RL_envs is a storage for my reinforcement learning trials in modelling an environment.
 The project is mostly done for "fun", it is not intended to be a guide but just a place to store experimentation for a bigger project.
